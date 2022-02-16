@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Trying to deploy again by editing the war file</h2>
+<h2>Welcome to My new war project repo using jenkins.....</h2>
 </body>
 </html>
